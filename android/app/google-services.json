@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059450788143",
+    "project_id": "dlelyamn",
+    "storage_bucket": "dlelyamn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059450788143:android:f6e3b450e50a14da07a9da",
+        "android_client_info": {
+          "package_name": "com.appPrice.app24"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUwEzW1ZiMk8uKTG0likG-VtbDNTmMJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
